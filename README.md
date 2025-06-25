@@ -49,6 +49,11 @@ This beginner-friendly project lets users select a difficulty level and try to g
 
 4. ⏱ Game timer
 
+ Screenshots:
+![Guessing_game3](https://github.com/user-attachments/assets/a601c687-94eb-4005-bf32-0a537fa76497)
+![Guessing_game2](https://github.com/user-attachments/assets/5797bc9c-e237-4447-b47c-65e62cbd773e)
+![Guessing_game1](https://github.com/user-attachments/assets/8262a8e7-70a4-4693-9a15-1a0a2ecd97a6)
+
 👨‍💻 Author
 Hussain Ahmed
 
