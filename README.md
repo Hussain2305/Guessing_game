@@ -27,7 +27,7 @@ This beginner-friendly project lets users select a difficulty level and try to g
 
 🎮 How to Play
 
-1. Choose a difficulty level using the radio buttons
+1. Choose a difficulty level
 
 2. Enter your number guess into the input box
 
